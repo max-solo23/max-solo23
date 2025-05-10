@@ -3,6 +3,11 @@
 I'm a self-taught software developer in training, passionate about building real-world applications and constantly improving my skills.
 Currently, I'm learning to develop a full-stack e-commerce application using .NET Core for the backend and Angular for the frontend.
 
+💡 I’m especially interested in:
+-Backend development
+-Clean architecture and SOLID principles
+-Software design patterns
+-Continuous learning and building useful tools for people
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksym-solomyanov-900931293/) 
