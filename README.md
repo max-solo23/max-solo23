@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning to build e-commerce app with .NET Core and Angular
+I'm a self-taught software developer in training, passionate about building real-world applications and constantly improving my skills.
+Currently, I'm learning to develop a full-stack e-commerce application using .NET Core for the backend and Angular for the frontend.
 
 
 ## 🌐 Socials:
