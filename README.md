@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hi, I'm Max!
 I'm a self-taught software developer in training, passionate about building real-world applications and constantly improving my skills.
 Currently, I'm learning to develop a full-stack e-commerce application using .NET Core for the backend and Angular for the frontend.
 
