@@ -5,8 +5,6 @@ Currently, I'm learning to develop a full-stack e-commerce application using .NE
 
 💡 I’m especially interested in:
 * Backend development
-* Clean architecture and SOLID principles
-* Software design patterns
 * Continuous learning and building useful tools for people
 
 ## 🌐 Socials:
