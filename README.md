@@ -35,6 +35,7 @@ My main goal is to build intelligent tools that **automate real-world processes*
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FA4753?style=flat&logo=n8n&logoColor=white)
 
 **Tools & DevOps**  
