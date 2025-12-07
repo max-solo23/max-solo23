@@ -4,48 +4,101 @@
 
 ---
 
-### 🧠 About Me
-I’m a **self-taught software developer** currently focused on **Python, AI engineering, and automation systems**.  
-My main goal is to build intelligent tools that **automate real-world processes**, using **LLMs, APIs, and custom agents**.
+I design and build **autonomous systems**, **agentic workflows**, and **LLM-powered automation tools** that remove repetitive work and increase operational efficiency.
 
-🔹 Currently developing automation frameworks and agentic systems using **CrewAI**, **Ollama**, and **LangChain**.  
-🔹 Experienced in **backend engineering**, **AI integration**, and **end-to-end scripting**.  
-🔹 Exploring **LLM orchestration**, **prompt engineering**, and **local model optimization** for efficient AI workflows.
+I specialize in **multi-agent reasoning**, **LLM orchestration**, and **end-to-end backend automation** (FastAPI + n8n + agent frameworks + API integrations).
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Why My Work Matters
 
-**Core Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I build automation systems that:
+- Reduce manual workload by **60–90 percent**
+- Replace static scripts with **adaptive LLM-driven agents**
+- Integrate with CRMs, dashboards, and APIs
+- Create **self-running workflows** for routing, notifications, and decisions
+- Support both **local and cloud LLMs**
 
-**AI / ML Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Automation & Agentic AI**  
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-181717?style=flat&logo=github&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FA4753?style=flat&logo=n8n&logoColor=white)
-
-**Tools & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+If a process can be automated, I design the system that automates it.
 
 ---
+
+# 🚀 What I Build
+
+- **Multi-agent systems** using Autogen, CrewAI, LangGraph, OpenAI Agents SDK  
+- **AI-powered automation pipelines** with FastAPI + n8n  
+- **Tool execution layers**, reasoning loops, memory systems  
+- **Browser automation** with Playwright  
+- **Local + cloud LLM integrations** (Ollama, OpenAI, Anthropic, DeepSeek)  
+- **Full-stack AI features**: Next.js + FastAPI + autonomous agents
+
+---
+
+# 🧠 Agentic & Automation Stack
+
+### Agent Frameworks
+- Autogen  
+- OpenAI Agents SDK  
+- CrewAI  
+- LangGraph   
+
+### Automation & Orchestration
+- n8n  
+- Playwright  
+- FastAPI  
+- REST APIs & webhooks  
+
+### LLM Ecosystem
+- Ollama (local models)  
+- OpenAI / Anthropic / DeepSeek  
+- Embeddings, vector search, RAG  
+- Function calling & custom tools  
+
+---
+
+### Languages
+- Python  
+- JavaScript / TypeScript  
+- C#
+
+### Backend & Systems
+- FastAPI  
+- Docker  
+- SQLite / PostgreSQL   
+- API integrations
+
+### Frontend
+- Next.js  
+- TailwindCSS
+
+### Bots & Integrations
+- Telegram bots (Python + FastAPI)  
+- Browser agents (Playwright)  
+- Local LLM orchestration with Ollama
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![n8n](https://img.shields.io/badge/n8n-FA4753?style=flat&logo=n8n)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=github)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Playwright](https://img.shields.io/badge/Playwright-2D2D2D?style=flat&logo=playwright)
+
+---
+
+# 🔄 Currently Working On
+
+- Agentic job-search automation system (LinkedIn + Indeed + matcher)  
+- Personal AI assistant with memory and retrieval (Autogen + FastAPI)  
+- Autonomous GitHub content analyzer for PRs and repos  
+- Portfolio redesign with integrated agentic features
+
+---  
 
 ## 📊 GitHub Stats
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-solo23&show_icons=true&theme=tokyonight&hide_border=false)
@@ -58,7 +111,6 @@ My main goal is to build intelligent tools that **automate real-world processes*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maksym-solomyanov-900931293)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/max-solo23)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.link)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/MSolomyanov?locale.x=en_US&country.x=IT)
 
 ---
 
