@@ -52,7 +52,13 @@ If a process can be automated, I design the system that automates it.
 - Ollama (local models)  
 - OpenAI / Anthropic / DeepSeek  
 - Embeddings, vector search, RAG  
-- Function calling & custom tools  
+- Function calling & custom tools
+
+### Computer Vision
+- OpenCV  
+- Image preprocessing & transformations  
+- Real-time object detection / tracking  
+- Video frame analysis  
 
 ---
 
@@ -80,6 +86,7 @@ If a process can be automated, I design the system that automates it.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FA4753?style=flat&logo=n8n)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=github)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=flat)
