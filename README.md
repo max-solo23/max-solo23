@@ -4,9 +4,7 @@
 
 ---
 
-I design and build **autonomous systems**, **agentic workflows**, and **LLM-powered automation tools** that remove repetitive work and increase operational efficiency.
-
-I specialize in **multi-agent reasoning**, **LLM orchestration**, and **end-to-end backend automation** (FastAPI + n8n + agent frameworks + API integrations).
+I build autonomous systems and LLM-driven agentic workflows that automate repetitive work, improve operational efficiency, and integrate AI into existing platforms.
 
 ---
 
@@ -100,10 +98,7 @@ If a process can be automated, I design the system that automates it.
 
 # 🔄 Currently Working On
 
-- Agentic job-search automation system (LinkedIn + Indeed + matcher)  
-- Personal AI assistant with memory and retrieval (Autogen + FastAPI)  
-- Autonomous GitHub content analyzer for PRs and repos  
-- Portfolio redesign with integrated agentic features
+- Agentic job-search automation system
 
 ---  
 
