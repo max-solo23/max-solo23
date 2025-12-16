@@ -24,7 +24,7 @@ If a process can be automated, I design the system that automates it.
 # 🚀 What I Build
 
 - **Multi-agent systems** using Autogen, CrewAI, LangGraph, OpenAI Agents SDK  
-- **AI-powered automation pipelines** with FastAPI + n8n  
+- **AI-powered automation pipelines** with n8n  
 - **Tool execution layers**, reasoning loops, memory systems  
 - **Browser automation** with Playwright  
 - **Local + cloud LLM integrations** (Ollama, OpenAI, Anthropic, DeepSeek)  
