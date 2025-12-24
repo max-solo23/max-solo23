@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maksym Solomyanov
+# 👋 Hi, I'm Max
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=AI+Engineer+in+Training;Python+Developer;Agentic+Automation+Builder;Always+Learning)](https://git.io/typing-svg)
 
