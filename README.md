@@ -63,14 +63,6 @@ I build backend systems and AI integrations — automations that solve real prob
 
 ---
 
-## GitHub Stats
-
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-solo23&show_icons=true&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-solo23&layout=compact&theme=tokyonight&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com/?user=max-solo23&theme=tokyonight&hide_border=false)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maksym-solomyanov-900931293)
