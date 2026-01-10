@@ -1,17 +1,17 @@
 # Hi, I'm Max
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=Python;AI+Integrations;Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=Python+developer;AI+Integrations;Backend+Systems)](https://git.io/typing-svg)
 
 ---
 
-I build backend systems and AI integrations — automations that solve real problems.
+I build backend systems and AI integrations - automations that solve real problems.
 
 ---
 
 ## What I Build
 
 - **AI agents** that research, analyze, and act — stock analysis automation, deep search systems, company research tools
-- **Backend APIs** with production concerns handled — rate limiting, caching, authentication
+- **Backend APIs** with production concerns handled - rate limiting, caching, authentication
 - **Automation pipelines** using agentic frameworks and orchestration tools
 
 ---
