@@ -10,9 +10,9 @@ I build backend systems and AI integrations - automations that solve real proble
 
 ## What I Build
 
-- **AI agents** that research, analyze, and act — stock analysis automation, deep search systems, company research tools
+- **AI agents** that research, analyze - stock analysis, deep search, company research
 - **Backend APIs** with production concerns handled - rate limiting, caching, authentication
-- **Automation pipelines** using agentic frameworks and orchestration tools
+- **Automation pipelines** using agentic framework and orchestration tools
 
 ---
 
@@ -30,11 +30,8 @@ I build backend systems and AI integrations - automations that solve real proble
 
 ### AI & Agents
 - OpenAI Agents SDK
-- CrewAI
-- LangGraph
-- Autogen
 - Ollama (local models)
-- Embeddings, vector search, RAG
+- RAG
 - Function calling & custom tools
 
 ### Automation & Orchestration
@@ -43,7 +40,6 @@ I build backend systems and AI integrations - automations that solve real proble
 
 ### Frontend
 - Next.js
-- TailwindCSS
 
 ---
 
