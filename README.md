@@ -4,13 +4,12 @@
 
 ---
 
-I build backend systems and AI integrations - automations that solve real problems.
+I build backend systems and AI integrations
 
 ---
 
 ## What I Build
 
-- **AI agents** that research, analyze - stock analysis, deep search, company research
 - **Backend APIs** with production concerns handled - rate limiting, caching, authentication
 - **Automation pipelines** using agentic framework and orchestration tools
 
