@@ -1,60 +1,56 @@
 # Hi, I'm Max
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=Python+developer;AI+Integrations;Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=Backend+Developer;C%23+.NET+%26+Python;ASP.NET+Core+%7C+FastAPI)](https://git.io/typing-svg)
 
 ---
 
-I build backend systems and AI integrations
-
----
-
-## What I Build
-
-- **Backend APIs** with production concerns handled - rate limiting, caching, authentication
-- **Automation pipelines** using agentic framework and orchestration tools
+I build backend APIs in C#/.NET and Python, focusing on authentication, database-backed features, testing, and deployment. I use AI tools mainly to speed up frontend work and implementation details, while keeping the backend logic and architecture understandable to me.
 
 ---
 
 ## Tech Stack
 
-### Languages
-- Python
-- JavaScript / TypeScript
-
-### Backend & Infrastructure
-- FastAPI
+### Primary - C# / .NET
+- ASP.NET Core
+- EF Core
 - PostgreSQL
 - Docker
-- REST APIs & webhooks
+- xUnit + WebApplicationFactory
 
-### AI & Agents
-- OpenAI Agents SDK
-- Ollama (local models)
-- RAG
-- Function calling & custom tools
+### Secondary - Python
+- FastAPI
+- pytest
+- OpenAI API
 
-### Automation & Orchestration
-- n8n
-- Playwright
-
-### Frontend
-- Next.js
+### Frontend (mostly AI-assisted)
+- Next.js / TypeScript
+- TailwindCSS
 
 ---
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FA4753?style=flat&logo=n8n)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Playwright](https://img.shields.io/badge/Playwright-2D2D2D?style=flat&logo=playwright)
+
+---
+
+## Shipped
+
+- **FinanceTracker API** - Production REST API with Clean Architecture, JWT auth, pagination, and integration tests. C# / ASP.NET Core / EF Core / PostgreSQL.
+- **EasyPitch** - Internal operations tool used daily at my workplace. Next.js / TypeScript / PostgreSQL / Prisma / Vitest.
+- **EchoMind** - Production chatbot API with streaming, caching, rate limiting. Python / FastAPI / OpenAI API / PostgreSQL.
+- **Portfolio Site** - This site. Next.js / TypeScript / PostgreSQL, connected to EchoMind.
 
 ---
 
 ## Currently Working On
 
-- **EchoMind** — a production chatbot API with streaming, caching, rate limiting, and API authentication
+- Practicing backend by building an API project
+- Next up: shipping an API + frontend for a friend's MindFitness courses
 
 ---
 
@@ -65,10 +61,3 @@ I build backend systems and AI integrations
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://maxsolomyanov.com)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
