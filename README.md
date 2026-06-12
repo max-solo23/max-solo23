@@ -50,7 +50,6 @@ I build backend APIs in C#/.NET and Python, focusing on authentication, database
 ## Currently Working On
 
 - Practicing backend by building an API project
-- Next up: shipping an API + frontend for a friend's MindFitness courses
 
 ---
 
