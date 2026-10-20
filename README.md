@@ -1,62 +1,39 @@
 # Hi, I'm Max
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F81F7&width=435&lines=Backend+Developer;C%23+.NET+%26+Python;ASP.NET+Core+%7C+FastAPI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=8A6FE8&width=435&lines=Self-taught+backend+developer;C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;Always+learning+something+new)](https://git.io/typing-svg)
 
----
+I'm a self-taught developer. I want to work with the Microsoft stack, so most of my learning goes into C#, .NET and ASP.NET Core. I also like trying other things, and I've built projects with Python and Next.js along the way.
 
-I build backend APIs in C#/.NET and Python, focusing on authentication, database-backed features, testing, and deployment. I use AI tools mainly to speed up frontend work and implementation details, while keeping the backend logic and architecture understandable to me.
+**Looking for a junior .NET backend developer role.**
 
----
+I use AI tools every day. In my C# learning projects I write the code myself and use AI as a tutor. In my side projects AI writes most of the code, and my job is deciding what to build, reviewing it, testing it and deploying it.
 
-## Tech Stack
+## Stack
 
-### Primary - C# / .NET
-- ASP.NET Core
-- EF Core
-- PostgreSQL
-- Docker
-- xUnit + WebApplicationFactory
+**Main focus:** C#, .NET, ASP.NET Core, EF Core, PostgreSQL, xUnit, Docker
 
-### Secondary - Python
-- FastAPI
-- pytest
-- OpenAI API
-
-### Frontend (mostly AI-assisted)
-- Next.js / TypeScript
-- TailwindCSS
-
----
+**Also used:** Python and FastAPI, Next.js and TypeScript, OpenAI API
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
----
+## Projects
 
-## Shipped
+- **[FinanceTracker API](https://github.com/max-solo23/Finance-Tracker)**: my main C# project, written by hand while learning. A personal finance REST API with JWT auth, per-user data, pagination and xUnit integration tests. ASP.NET Core, EF Core, PostgreSQL on Neon. Deployed on Fly.io.
+- **[EchoMind](https://github.com/max-solo23/EchoMind)**: the chatbot API behind the assistant on my portfolio, with streaming replies and rate limiting. Python, FastAPI, PostgreSQL.
+- **[Portfolio](https://maxsolomyanov.com)**: my site, with a blog and an admin panel, connected to EchoMind. Next.js, TypeScript, PostgreSQL.
+- **EasyPitch** (private): an internal tool I use every day at my workplace. Next.js, TypeScript, PostgreSQL.
 
-- **FinanceTracker API** - Production REST API with Clean Architecture, JWT auth, pagination, and integration tests. C# / ASP.NET Core / EF Core / PostgreSQL.
-- **EasyPitch** - Internal operations tool used daily at my workplace. Next.js / TypeScript / PostgreSQL / Prisma / Vitest.
-- **EchoMind** - Production chatbot API with streaming, caching, rate limiting. Python / FastAPI / OpenAI API / PostgreSQL.
-- **Portfolio Site** - This site. Next.js / TypeScript / PostgreSQL, connected to EchoMind.
+## Learning now
 
----
-
-## Currently Working On
-
-- Practicing backend by building an API project
-
----
+Building an inventory API in ASP.NET Core step by step. Next up: PostgreSQL.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-solomyanov-900931293)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/max-solo23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://maxsolomyanov.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-solomyanov-900931293)
+[![Portfolio](https://img.shields.io/badge/Portfolio-512BD4?style=flat&logo=dotnet&logoColor=white)](https://maxsolomyanov.com)
