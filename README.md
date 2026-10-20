@@ -34,4 +34,4 @@ Building an inventory API in ASP.NET Core step by step. Next up: PostgreSQL.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-solomyanov-900931293)
-[![Portfolio](https://img.shields.io/badge/Portfolio-512BD4?style=flat&logo=dotnet&logoColor=white)](https://maxsolomyanov.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=nextdotjs&logoColor=white)](https://maxsolomyanov.com)
