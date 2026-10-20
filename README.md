@@ -4,8 +4,6 @@
 
 I'm a self-taught developer. I want to work with the Microsoft stack, so most of my learning goes into C#, .NET and ASP.NET Core. I also like trying other things, and I've built projects with Python and Next.js along the way.
 
-**Looking for a junior .NET backend developer role.**
-
 I use AI tools every day. In my C# learning projects I write the code myself and use AI as a tutor. In my side projects AI writes most of the code, and my job is deciding what to build, reviewing it, testing it and deploying it.
 
 ## Stack
